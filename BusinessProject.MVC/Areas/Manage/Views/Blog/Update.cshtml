@@ -1,0 +1,25 @@
+﻿@using BusinessProject.Business.ViewModels.BlogVMs
+@model BlogUpdateVM
+
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control">
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImgUrl">Image</label>
+        <input asp-for="ImgUrl" class="form-control">
+        <span asp-validation-for="ImgUrl"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+
+</form>
