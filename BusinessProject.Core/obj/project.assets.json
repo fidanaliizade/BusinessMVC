@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
+      "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
       "projectName": "BusinessProject.Core",
-      "projectPath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
+      "projectPath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
       "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Core\\obj\\",
+      "outputPath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",

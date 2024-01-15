@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPfd+YMsvSsESqZvkmtkvx6YxPQGpezjaPzR+lSG/TMk5JmsvSsmyLpi/ytHjgdw+108RoD9Wr/4NN7CB8r5Lw==",
+  "dgSpecHash": "g7NzWvVbJvIMDCjaAJwKoRrKVXGyasJXnLFzw+tRZUCSbeNmeLP3z4T+97B4jgHy1X5BeQTn7qDxO05RZn5tmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
+  "projectFilePath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Core\\BusinessProject.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",
     "C:\\Users\\II novbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.25\\microsoft.aspnetcore.cryptography.keyderivation.6.0.25.nupkg.sha512",

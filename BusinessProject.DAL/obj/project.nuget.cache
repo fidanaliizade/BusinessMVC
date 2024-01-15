@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXJjrL4Kc2pK1zC8VJjVQjXybqruH6/a4Wr3bF7S+kz2QRGotbPI83lfgpmNOxROLWfw3fY4GwqKVC29FGzbrQ==",
+  "dgSpecHash": "mDNXHY/sOQ6Fpb61ckxVPBUcV3oX01RydRqqcJzLCbFjsw63lPdowjIq/+xajPbAZ7POvawJUhzygnJoxf8e0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj",
+  "projectFilePath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\II novbe\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\II novbe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

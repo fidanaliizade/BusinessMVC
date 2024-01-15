@@ -55,7 +55,9 @@ namespace BusinessProject.Business.Services.Implementations
             if(vm.Id<=0) throw new NegativeIdException();
             if (await _repository.GetById(vm.Id) == null) throw new BlogNullException();
             var blog = await _repository.GetById(vm.Id);
-            _repository.Update(blog);
+            _repository.Update(_mapper.Map(vm, blog));
+            //_mapper.Map<Blog>(vm);
+            //_repository.Update(blog);
             await _repository.SaveAllChanges();
         }
     }

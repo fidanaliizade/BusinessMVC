@@ -13,14 +13,11 @@ namespace BusinessProject.Business.Profiles
     {
         public BlogMapper()
         {
-            CreateMap<Blog, BlogCreateVM>();
             CreateMap<Blog, BlogCreateVM>().ReverseMap();
-            CreateMap<Blog,BlogUpdateVM>();
             CreateMap<Blog, BlogUpdateVM>().ReverseMap();
-            CreateMap<Blog, BlogListItemVM>();
             CreateMap<Blog, BlogListItemVM>().ReverseMap();
-            CreateMap<BlogUpdateVM, BlogDetailVM>();
             CreateMap<BlogUpdateVM, BlogDetailVM>().ReverseMap();
+            CreateMap<BlogDetailVM, Blog>().ReverseMap();
         }
     }
 }

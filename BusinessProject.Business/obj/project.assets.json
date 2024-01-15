@@ -2227,11 +2227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Business\\BusinessProject.Business.csproj",
+      "projectUniqueName": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Business\\BusinessProject.Business.csproj",
       "projectName": "BusinessProject.Business",
-      "projectPath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Business\\BusinessProject.Business.csproj",
+      "projectPath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Business\\BusinessProject.Business.csproj",
       "packagesPath": "C:\\Users\\II novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.Business\\obj\\",
+      "outputPath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\II novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2248,8 +2248,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj": {
-              "projectPath": "C:\\Users\\II novbe\\source\\repos\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj"
+            "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj": {
+              "projectPath": "C:\\Users\\II novbe\\Desktop\\BusinessProject\\BusinessProject.DAL\\BusinessProject.DAL.csproj"
             }
           }
         }
